@@ -1,6 +1,6 @@
 Projects from Python specialization hosted by University of Michigan.
 
-# Python specialization (by University of Michigan)
+# Python specialization (University of Michigan)
 
 This Specialization will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you’ll use the technologies learned throughout the Specialization to design and create your own applications for data retrieval, processing, and visualization.
 
