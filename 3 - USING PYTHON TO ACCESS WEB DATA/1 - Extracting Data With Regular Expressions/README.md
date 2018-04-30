@@ -1,1 +1,1 @@
-# Extracting Data With Regular Expressions: mini-project overview
+# Extracting Data With Regular Expressions mini-project
